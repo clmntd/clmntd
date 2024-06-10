@@ -1,10 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working on<br> 
-* Building up a portfolio to increase my knowledge.
-💬 Ask me about<br>
+* Building up a portfolio to increase my knowledge.<br>
+#💬 Ask me about<br>
 * I'm a software engineering student at UTS with a passion for web development.<br>
 * I'm enthusiastic about leveraging technology to solve real-world problems and continually learning new skills to enhance my expertise.<br>
-⚡ Fun fact<br>
+#⚡ Fun fact<br>
 * I'm allergic to cats but I own one.
 
 
